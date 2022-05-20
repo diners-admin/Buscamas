@@ -1,0 +1,14 @@
+<!--Inicio Codigo Buscamas-->
+<a href="https://buscamas.es" target="_blank" rel="noopener"><img class="alignnone wp-image-750 " src="https://buscamas.es/public/themes/search/buscamas-pag-transp.png" alt="Buscar con Buscamas" /></a>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>JS Bin</title>
+</head>
+<body>
+<form action="https://buscamas.es/web?" method="GET">
+<input type="text" name="q" placeholder="Buscar con Buscamas...">
+<input type="submit">
+</form>
+</body>
+<!--Fin Codigo Buscamas-->
